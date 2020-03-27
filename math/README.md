@@ -1,1 +1,3 @@
 # Math
+
+* [Curves](curves.md)
